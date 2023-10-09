@@ -31,7 +31,7 @@ open module ttrssclient {
 	requires org.kordamp.ikonli.javafx;
 	requires org.kordamp.ikonli.materialdesign;
 
-	requires com.github.russ_p.ico4jfx;
+//	requires com.github.russ_p.ico4jfx;
 	
 	requires org.apache.commons.lang3;
 	requires org.apache.commons.text;
